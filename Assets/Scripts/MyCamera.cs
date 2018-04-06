@@ -3,19 +3,28 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class MyCamera : MonoBehaviour {
-    public GameObject target;
+    [SerializeField]
+    GameObject target;
     Rigidbody2D rdb;
-	// Use this for initialization
-	void Start () {
-        rdb = target.GetComponent<Rigidbody2D>();
-
-    }
+	
 	
 	void LateUpdate () {
-        transform.position = Vector3.Lerp(transform.position,
-            new Vector3(target.transform.position.x +
-            rdb.velocity.x * 3
-            , target.transform.position.y
-            , transform.position.z), Time.smoothDeltaTime);
+        if (target)
+        {
+            transform.position = Vector3.Lerp(transform.position,
+                new Vector3(target.transform.position.x +
+                rdb.velocity.x * 3
+                , target.transform.position.y
+                , transform.position.z), Time.smoothDeltaTime);
+        }
 	}
+    /// <summary>
+    /// Seta o jogador na camera
+    /// </summary>
+    /// <param name="tgt">jogador</param>
+    public void SetPlayer(GameObject tgt)
+    {
+        target = tgt;
+        rdb = target.GetComponent<Rigidbody2D>();
+    }
 }
