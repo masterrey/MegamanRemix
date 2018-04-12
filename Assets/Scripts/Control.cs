@@ -47,7 +47,23 @@ public class Control : MonoBehaviour
         anima.SetFloat("Height", hit.distance);
 
         JumpRoutine(hit);
-       
+
+        RaycastHit2D hitright;
+        hitright = Physics2D.Raycast(transform.position+
+            Vector3.up*0.5f, transform.right,1);
+
+        if (hitright)
+        {
+            if (hitright.distance < 0.3f)
+            {
+                jumptime = 1;
+
+            }
+            Debug.DrawLine(hitright.point, transform.position 
+                + Vector3.up * 0.5f);
+        }
+
+
     }
     /// <summary>
     /// rotina de pulo parte fisica
@@ -57,9 +73,8 @@ public class Control : MonoBehaviour
     {
         if (hit.distance < 0.1f)
         {
-            jumptime = 1;
+           ?????
         }
-
         if (jump)
         {
             jumptime = Mathf.Lerp(jumptime, 0, Time.fixedDeltaTime * 10);

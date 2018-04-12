@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4939056149151732}
   - component: {fileID: 198825090059282404}
   - component: {fileID: 199992784841138236}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 4673051696311486}
   - component: {fileID: 198458817548517894}
   - component: {fileID: 199492634134104890}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: SubEmitter0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59,7 +59,7 @@ GameObject:
   - component: {fileID: 95530863979618488}
   - component: {fileID: 114818115634691074}
   - component: {fileID: 70173381863498560}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1989187543047504}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.333, z: 0}
+  m_LocalPosition: {x: -6.9918923, y: 0.47183716, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4939056149151732}
