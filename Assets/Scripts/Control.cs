@@ -7,7 +7,7 @@ public class Control : MonoBehaviour
     public Animator anima;
     float xmov;
     public Rigidbody2D rdb;
-    bool jump;
+    bool jump,doublejump;
     float jumptime, jumptimeside;
     public ParticleSystem fire;
     void Start()
@@ -17,6 +17,14 @@ public class Control : MonoBehaviour
     void Update()
     {
         xmov = Input.GetAxis("Horizontal");
+        if (Input.GetButtonDown("Jump"))
+        {
+            if (jumptime < 0.1f)
+            {
+                doublejump = true;
+            }
+        }
+
         if (Input.GetButton("Jump"))
         {
             jump = true;
@@ -24,10 +32,12 @@ public class Control : MonoBehaviour
         else
         {
             jump = false;
+            doublejump = false;
             jumptime = 0;
             jumptimeside = 0;
         }
         anima.SetBool("Fire", false);
+
         if (Input.GetButtonDown("Fire1"))
         {
             fire.Emit(1);
@@ -38,9 +48,10 @@ public class Control : MonoBehaviour
    
     void FixedUpdate()
     {
-        Reverser();
+       
         anima.SetFloat("Velocity", Mathf.Abs(xmov));
         //rdb.velocity = new Vector2(xmov * 1.3f, rdb.velocity.y);
+
         rdb.AddForce(new Vector2(xmov * 10/(rdb.velocity.magnitude+1), 0));
 
         RaycastHit2D hit;
@@ -48,7 +59,6 @@ public class Control : MonoBehaviour
         if (hit)
         {
             anima.SetFloat("Height", hit.distance);
-
             JumpRoutine(hit);
         }
 
@@ -60,14 +70,13 @@ public class Control : MonoBehaviour
         {
             if (hitright.distance < 0.3f)
             {
-
                 JumpRoutineSide(hitright,hit);
             }
             Debug.DrawLine(hitright.point, transform.position 
                 + Vector3.up * 0.5f);
         }
 
-
+        Reverser();
     }
     /// <summary>
     /// rotina de pulo parte fisica
@@ -86,20 +95,18 @@ public class Control : MonoBehaviour
             rdb.AddForce(hit.normal * jumptime, ForceMode2D.Impulse);
         }
     }
+
     private void JumpRoutineSide(RaycastHit2D hitside,RaycastHit2D hit)
     {
-        
-
-        if (jump)
+        if (hitside.distance < 0.3f )
         {
-            if (hitside.distance < 0.3f && hit.distance > 0.5f)
-            {
-                jumptimeside = 1;
-            }
+            jumptimeside = 1;
+        }
 
-
-            jumptimeside = Mathf.Lerp(jumptimeside, 0, Time.fixedDeltaTime );
-            rdb.AddForce((hitside.normal*50 + Vector2.up*70) * jumptimeside);
+        if (doublejump)
+        {
+            jumptimeside = Mathf.Lerp(jumptimeside, 0, Time.fixedDeltaTime*10);
+            rdb.AddForce((hitside.normal*50 + Vector2.up*80) * jumptimeside);
         }
     }
 
