@@ -8,7 +8,7 @@ public class Control : MonoBehaviour
     float xmov;
     public Rigidbody2D rdb;
     bool jump;
-    float jumptime;
+    float jumptime, jumptimeside;
     public ParticleSystem fire;
     void Start()
     {
@@ -25,6 +25,7 @@ public class Control : MonoBehaviour
         {
             jump = false;
             jumptime = 0;
+            jumptimeside = 0;
         }
         anima.SetBool("Fire", false);
         if (Input.GetButtonDown("Fire1"))
@@ -39,14 +40,17 @@ public class Control : MonoBehaviour
     {
         Reverser();
         anima.SetFloat("Velocity", Mathf.Abs(xmov));
-        rdb.velocity = new Vector2(xmov * 1.3f, rdb.velocity.y);
+        //rdb.velocity = new Vector2(xmov * 1.3f, rdb.velocity.y);
+        rdb.AddForce(new Vector2(xmov * 10/(rdb.velocity.magnitude+1), 0));
 
         RaycastHit2D hit;
         hit = Physics2D.Raycast(transform.position, Vector2.down);
+        if (hit)
+        {
+            anima.SetFloat("Height", hit.distance);
 
-        anima.SetFloat("Height", hit.distance);
-
-        JumpRoutine(hit);
+            JumpRoutine(hit);
+        }
 
         RaycastHit2D hitright;
         hitright = Physics2D.Raycast(transform.position+
@@ -56,8 +60,8 @@ public class Control : MonoBehaviour
         {
             if (hitright.distance < 0.3f)
             {
-                jumptime = 1;
 
+                JumpRoutineSide(hitright,hit);
             }
             Debug.DrawLine(hitright.point, transform.position 
                 + Vector3.up * 0.5f);
@@ -73,14 +77,33 @@ public class Control : MonoBehaviour
     {
         if (hit.distance < 0.1f)
         {
-           ?????
+            jumptime = 1;
         }
+
         if (jump)
         {
             jumptime = Mathf.Lerp(jumptime, 0, Time.fixedDeltaTime * 10);
-            rdb.AddForce(Vector2.up * jumptime, ForceMode2D.Impulse);
+            rdb.AddForce(hit.normal * jumptime, ForceMode2D.Impulse);
         }
     }
+    private void JumpRoutineSide(RaycastHit2D hitside,RaycastHit2D hit)
+    {
+        
+
+        if (jump)
+        {
+            if (hitside.distance < 0.3f && hit.distance > 0.5f)
+            {
+                jumptimeside = 1;
+            }
+
+
+            jumptimeside = Mathf.Lerp(jumptimeside, 0, Time.fixedDeltaTime );
+            rdb.AddForce((hitside.normal*50 + Vector2.up*70) * jumptimeside);
+        }
+    }
+
+
 
 
     /// <summary>
