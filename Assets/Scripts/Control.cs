@@ -48,7 +48,7 @@ public class Control : MonoBehaviour
    
     void FixedUpdate()
     {
-       
+        Reverser();
         anima.SetFloat("Velocity", Mathf.Abs(xmov));
         //rdb.velocity = new Vector2(xmov * 1.3f, rdb.velocity.y);
 
@@ -70,13 +70,13 @@ public class Control : MonoBehaviour
         {
             if (hitright.distance < 0.3f)
             {
-                JumpRoutineSide(hitright,hit);
+                JumpRoutineSide(hitright);
             }
             Debug.DrawLine(hitright.point, transform.position 
                 + Vector3.up * 0.5f);
         }
 
-        Reverser();
+        
     }
     /// <summary>
     /// rotina de pulo parte fisica
@@ -88,23 +88,28 @@ public class Control : MonoBehaviour
         {
             jumptime = 1;
         }
+      
 
-        if (jump)
-        {
-            jumptime = Mathf.Lerp(jumptime, 0, Time.fixedDeltaTime * 10);
-            rdb.AddForce(hit.normal * jumptime, ForceMode2D.Impulse);
-        }
+            if (jump)
+            {
+                jumptime = Mathf.Lerp(jumptime, 0, Time.fixedDeltaTime * 10);
+                rdb.AddForce(Vector2.up * jumptime, ForceMode2D.Impulse);
+            }
+        
     }
 
-    private void JumpRoutineSide(RaycastHit2D hitside,RaycastHit2D hit)
+    private void JumpRoutineSide(RaycastHit2D hitside)
     {
         if (hitside.distance < 0.3f )
         {
+
             jumptimeside = 1;
+           
         }
 
         if (doublejump)
         {
+            PhisicalReverser();
             jumptimeside = Mathf.Lerp(jumptimeside, 0, Time.fixedDeltaTime*10);
             rdb.AddForce((hitside.normal*50 + Vector2.up*80) * jumptimeside);
         }
@@ -123,6 +128,18 @@ public class Control : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 0, 0);
         }
         if (xmov < 0)
+        {
+            transform.rotation = Quaternion.Euler(0, 180, 0);
+        }
+
+    }
+    void PhisicalReverser()
+    {
+        if (rdb.velocity.x > 0.1f)
+        {
+            transform.rotation = Quaternion.Euler(0, 0, 0);
+        }
+        if (rdb.velocity.x < 0.1f)
         {
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
