@@ -52,7 +52,7 @@ public class Control : MonoBehaviour
         anima.SetFloat("Velocity", Mathf.Abs(xmov));
         //rdb.velocity = new Vector2(xmov * 1.3f, rdb.velocity.y);
 
-        rdb.AddForce(new Vector2(xmov * 10/(rdb.velocity.magnitude+1), 0));
+        rdb.AddForce(new Vector2(xmov * 20/(rdb.velocity.magnitude+1), 0));
 
         RaycastHit2D hit;
         hit = Physics2D.Raycast(transform.position, Vector2.down);
