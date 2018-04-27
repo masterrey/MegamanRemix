@@ -7,7 +7,7 @@ public class AracnoControl : MonoBehaviour {
     JointMotor2D motor;
 	// Use this for initialization
 	void Start () {
-        motor.maxMotorTorque = 1000;
+        motor.maxMotorTorque = 10000;
 
     }
 	
