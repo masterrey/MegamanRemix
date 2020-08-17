@@ -1,174 +1,498 @@
 fileFormatVersion: 2
 guid: f7f25277024f14549bb0bb30a4f13ee5
-timeCreated: 1522361496
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: zerox6_0
-    21300002: zerox6_1
-    21300004: zerox6_2
-    21300006: zerox6_3
-    21300008: zerox6_4
-    21300010: zerox6_5
-    21300012: zerox6_6
-    21300014: zerox6_7
-    21300016: zerox6_8
-    21300018: zerox6_9
-    21300020: zerox6_10
-    21300022: zerox6_11
-    21300024: zerox6_12
-    21300026: zerox6_13
-    21300028: zerox6_14
-    21300030: zerox6_15
-    21300032: zerox6_16
-    21300034: zerox6_17
-    21300036: zerox6_18
-    21300038: zerox6_19
-    21300040: zerox6_20
-    21300042: zerox6_21
-    21300044: zerox6_22
-    21300046: zerox6_23
-    21300048: zerox6_24
-    21300050: zerox6_25
-    21300052: zerox6_26
-    21300054: zerox6_27
-    21300056: zerox6_28
-    21300058: zerox6_29
-    21300060: zerox6_30
-    21300062: zerox6_31
-    21300064: zerox6_32
-    21300066: zerox6_33
-    21300068: zerox6_34
-    21300070: zerox6_35
-    21300072: zerox6_36
-    21300074: zerox6_37
-    21300076: zerox6_38
-    21300078: zerox6_39
-    21300080: zerox6_40
-    21300082: zerox6_41
-    21300084: zerox6_42
-    21300086: zerox6_43
-    21300088: zerox6_44
-    21300090: zerox6_45
-    21300092: zerox6_46
-    21300094: zerox6_47
-    21300096: zerox6_48
-    21300098: zerox6_49
-    21300100: zerox6_50
-    21300102: zerox6_51
-    21300104: zerox6_52
-    21300106: zerox6_53
-    21300108: zerox6_54
-    21300110: zerox6_55
-    21300112: zerox6_56
-    21300114: zerox6_57
-    21300116: zerox6_58
-    21300118: zerox6_59
-    21300120: zerox6_60
-    21300122: zerox6_61
-    21300124: zerox6_62
-    21300126: zerox6_63
-    21300128: zerox6_64
-    21300130: zerox6_65
-    21300132: zerox6_66
-    21300134: zerox6_67
-    21300136: zerox6_68
-    21300138: zerox6_69
-    21300140: zerox6_70
-    21300142: zerox6_71
-    21300144: zerox6_72
-    21300146: zerox6_73
-    21300148: zerox6_74
-    21300150: zerox6_75
-    21300152: zerox6_76
-    21300154: zerox6_77
-    21300156: zerox6_78
-    21300158: zerox6_79
-    21300160: zerox6_80
-    21300162: zerox6_81
-    21300164: zerox6_82
-    21300166: zerox6_83
-    21300168: zerox6_84
-    21300170: zerox6_85
-    21300172: zerox6_86
-    21300174: zerox6_87
-    21300176: zerox6_88
-    21300178: zerox6_89
-    21300180: zerox6_90
-    21300182: zerox6_91
-    21300184: zerox6_92
-    21300186: zerox6_93
-    21300188: zerox6_94
-    21300190: zerox6_95
-    21300192: zerox6_96
-    21300194: zerox6_97
-    21300196: zerox6_98
-    21300198: zerox6_99
-    21300200: zerox6_100
-    21300202: zerox6_101
-    21300204: zerox6_102
-    21300206: zerox6_103
-    21300208: zerox6_104
-    21300210: zerox6_105
-    21300212: zerox6_106
-    21300214: zerox6_107
-    21300216: zerox6_108
-    21300218: zerox6_109
-    21300220: zerox6_110
-    21300222: zerox6_111
-    21300224: zerox6_112
-    21300226: zerox6_113
-    21300228: zerox6_114
-    21300230: zerox6_115
-    21300232: zerox6_116
-    21300234: zerox6_117
-    21300236: zerox6_118
-    21300238: zerox6_119
-    21300240: zerox6_120
-    21300242: zerox6_121
-    21300244: zerox6_122
-    21300246: zerox6_123
-    21300248: zerox6_124
-    21300250: zerox6_125
-    21300252: zerox6_126
-    21300254: zerox6_127
-    21300256: zerox6_128
-    21300258: zerox6_129
-    21300260: zerox6_130
-    21300262: zerox6_131
-    21300264: zerox6_132
-    21300266: zerox6_133
-    21300268: zerox6_134
-    21300270: zerox6_135
-    21300272: zerox6_136
-    21300274: zerox6_137
-    21300276: zerox6_138
-    21300278: zerox6_139
-    21300280: zerox6_140
-    21300282: zerox6_141
-    21300284: zerox6_142
-    21300286: zerox6_143
-    21300288: zerox6_144
-    21300290: zerox6_145
-    21300292: zerox6_146
-    21300294: zerox6_147
-    21300296: zerox6_148
-    21300298: zerox6_149
-    21300300: zerox6_150
-    21300302: zerox6_151
-    21300304: zerox6_152
-    21300306: zerox6_153
-    21300308: zerox6_154
-    21300310: zerox6_155
-    21300312: zerox6_156
-    21300314: zerox6_157
-    21300316: zerox6_158
-    21300318: zerox6_159
-    21300320: zerox6_160
-    21300322: zerox6_161
-    21300324: zerox6_162
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zerox6_0
+  - first:
+      213: 21300002
+    second: zerox6_1
+  - first:
+      213: 21300004
+    second: zerox6_2
+  - first:
+      213: 21300006
+    second: zerox6_3
+  - first:
+      213: 21300008
+    second: zerox6_4
+  - first:
+      213: 21300010
+    second: zerox6_5
+  - first:
+      213: 21300012
+    second: zerox6_6
+  - first:
+      213: 21300014
+    second: zerox6_7
+  - first:
+      213: 21300016
+    second: zerox6_8
+  - first:
+      213: 21300018
+    second: zerox6_9
+  - first:
+      213: 21300020
+    second: zerox6_10
+  - first:
+      213: 21300022
+    second: zerox6_11
+  - first:
+      213: 21300024
+    second: zerox6_12
+  - first:
+      213: 21300026
+    second: zerox6_13
+  - first:
+      213: 21300028
+    second: zerox6_14
+  - first:
+      213: 21300030
+    second: zerox6_15
+  - first:
+      213: 21300032
+    second: zerox6_16
+  - first:
+      213: 21300034
+    second: zerox6_17
+  - first:
+      213: 21300036
+    second: zerox6_18
+  - first:
+      213: 21300038
+    second: zerox6_19
+  - first:
+      213: 21300040
+    second: zerox6_20
+  - first:
+      213: 21300042
+    second: zerox6_21
+  - first:
+      213: 21300044
+    second: zerox6_22
+  - first:
+      213: 21300046
+    second: zerox6_23
+  - first:
+      213: 21300048
+    second: zerox6_24
+  - first:
+      213: 21300050
+    second: zerox6_25
+  - first:
+      213: 21300052
+    second: zerox6_26
+  - first:
+      213: 21300054
+    second: zerox6_27
+  - first:
+      213: 21300056
+    second: zerox6_28
+  - first:
+      213: 21300058
+    second: zerox6_29
+  - first:
+      213: 21300060
+    second: zerox6_30
+  - first:
+      213: 21300062
+    second: zerox6_31
+  - first:
+      213: 21300064
+    second: zerox6_32
+  - first:
+      213: 21300066
+    second: zerox6_33
+  - first:
+      213: 21300068
+    second: zerox6_34
+  - first:
+      213: 21300070
+    second: zerox6_35
+  - first:
+      213: 21300072
+    second: zerox6_36
+  - first:
+      213: 21300074
+    second: zerox6_37
+  - first:
+      213: 21300076
+    second: zerox6_38
+  - first:
+      213: 21300078
+    second: zerox6_39
+  - first:
+      213: 21300080
+    second: zerox6_40
+  - first:
+      213: 21300082
+    second: zerox6_41
+  - first:
+      213: 21300084
+    second: zerox6_42
+  - first:
+      213: 21300086
+    second: zerox6_43
+  - first:
+      213: 21300088
+    second: zerox6_44
+  - first:
+      213: 21300090
+    second: zerox6_45
+  - first:
+      213: 21300092
+    second: zerox6_46
+  - first:
+      213: 21300094
+    second: zerox6_47
+  - first:
+      213: 21300096
+    second: zerox6_48
+  - first:
+      213: 21300098
+    second: zerox6_49
+  - first:
+      213: 21300100
+    second: zerox6_50
+  - first:
+      213: 21300102
+    second: zerox6_51
+  - first:
+      213: 21300104
+    second: zerox6_52
+  - first:
+      213: 21300106
+    second: zerox6_53
+  - first:
+      213: 21300108
+    second: zerox6_54
+  - first:
+      213: 21300110
+    second: zerox6_55
+  - first:
+      213: 21300112
+    second: zerox6_56
+  - first:
+      213: 21300114
+    second: zerox6_57
+  - first:
+      213: 21300116
+    second: zerox6_58
+  - first:
+      213: 21300118
+    second: zerox6_59
+  - first:
+      213: 21300120
+    second: zerox6_60
+  - first:
+      213: 21300122
+    second: zerox6_61
+  - first:
+      213: 21300124
+    second: zerox6_62
+  - first:
+      213: 21300126
+    second: zerox6_63
+  - first:
+      213: 21300128
+    second: zerox6_64
+  - first:
+      213: 21300130
+    second: zerox6_65
+  - first:
+      213: 21300132
+    second: zerox6_66
+  - first:
+      213: 21300134
+    second: zerox6_67
+  - first:
+      213: 21300136
+    second: zerox6_68
+  - first:
+      213: 21300138
+    second: zerox6_69
+  - first:
+      213: 21300140
+    second: zerox6_70
+  - first:
+      213: 21300142
+    second: zerox6_71
+  - first:
+      213: 21300144
+    second: zerox6_72
+  - first:
+      213: 21300146
+    second: zerox6_73
+  - first:
+      213: 21300148
+    second: zerox6_74
+  - first:
+      213: 21300150
+    second: zerox6_75
+  - first:
+      213: 21300152
+    second: zerox6_76
+  - first:
+      213: 21300154
+    second: zerox6_77
+  - first:
+      213: 21300156
+    second: zerox6_78
+  - first:
+      213: 21300158
+    second: zerox6_79
+  - first:
+      213: 21300160
+    second: zerox6_80
+  - first:
+      213: 21300162
+    second: zerox6_81
+  - first:
+      213: 21300164
+    second: zerox6_82
+  - first:
+      213: 21300166
+    second: zerox6_83
+  - first:
+      213: 21300168
+    second: zerox6_84
+  - first:
+      213: 21300170
+    second: zerox6_85
+  - first:
+      213: 21300172
+    second: zerox6_86
+  - first:
+      213: 21300174
+    second: zerox6_87
+  - first:
+      213: 21300176
+    second: zerox6_88
+  - first:
+      213: 21300178
+    second: zerox6_89
+  - first:
+      213: 21300180
+    second: zerox6_90
+  - first:
+      213: 21300182
+    second: zerox6_91
+  - first:
+      213: 21300184
+    second: zerox6_92
+  - first:
+      213: 21300186
+    second: zerox6_93
+  - first:
+      213: 21300188
+    second: zerox6_94
+  - first:
+      213: 21300190
+    second: zerox6_95
+  - first:
+      213: 21300192
+    second: zerox6_96
+  - first:
+      213: 21300194
+    second: zerox6_97
+  - first:
+      213: 21300196
+    second: zerox6_98
+  - first:
+      213: 21300198
+    second: zerox6_99
+  - first:
+      213: 21300200
+    second: zerox6_100
+  - first:
+      213: 21300202
+    second: zerox6_101
+  - first:
+      213: 21300204
+    second: zerox6_102
+  - first:
+      213: 21300206
+    second: zerox6_103
+  - first:
+      213: 21300208
+    second: zerox6_104
+  - first:
+      213: 21300210
+    second: zerox6_105
+  - first:
+      213: 21300212
+    second: zerox6_106
+  - first:
+      213: 21300214
+    second: zerox6_107
+  - first:
+      213: 21300216
+    second: zerox6_108
+  - first:
+      213: 21300218
+    second: zerox6_109
+  - first:
+      213: 21300220
+    second: zerox6_110
+  - first:
+      213: 21300222
+    second: zerox6_111
+  - first:
+      213: 21300224
+    second: zerox6_112
+  - first:
+      213: 21300226
+    second: zerox6_113
+  - first:
+      213: 21300228
+    second: zerox6_114
+  - first:
+      213: 21300230
+    second: zerox6_115
+  - first:
+      213: 21300232
+    second: zerox6_116
+  - first:
+      213: 21300234
+    second: zerox6_117
+  - first:
+      213: 21300236
+    second: zerox6_118
+  - first:
+      213: 21300238
+    second: zerox6_119
+  - first:
+      213: 21300240
+    second: zerox6_120
+  - first:
+      213: 21300242
+    second: zerox6_121
+  - first:
+      213: 21300244
+    second: zerox6_122
+  - first:
+      213: 21300246
+    second: zerox6_123
+  - first:
+      213: 21300248
+    second: zerox6_124
+  - first:
+      213: 21300250
+    second: zerox6_125
+  - first:
+      213: 21300252
+    second: zerox6_126
+  - first:
+      213: 21300254
+    second: zerox6_127
+  - first:
+      213: 21300256
+    second: zerox6_128
+  - first:
+      213: 21300258
+    second: zerox6_129
+  - first:
+      213: 21300260
+    second: zerox6_130
+  - first:
+      213: 21300262
+    second: zerox6_131
+  - first:
+      213: 21300264
+    second: zerox6_132
+  - first:
+      213: 21300266
+    second: zerox6_133
+  - first:
+      213: 21300268
+    second: zerox6_134
+  - first:
+      213: 21300270
+    second: zerox6_135
+  - first:
+      213: 21300272
+    second: zerox6_136
+  - first:
+      213: 21300274
+    second: zerox6_137
+  - first:
+      213: 21300276
+    second: zerox6_138
+  - first:
+      213: 21300278
+    second: zerox6_139
+  - first:
+      213: 21300280
+    second: zerox6_140
+  - first:
+      213: 21300282
+    second: zerox6_141
+  - first:
+      213: 21300284
+    second: zerox6_142
+  - first:
+      213: 21300286
+    second: zerox6_143
+  - first:
+      213: 21300288
+    second: zerox6_144
+  - first:
+      213: 21300290
+    second: zerox6_145
+  - first:
+      213: 21300292
+    second: zerox6_146
+  - first:
+      213: 21300294
+    second: zerox6_147
+  - first:
+      213: 21300296
+    second: zerox6_148
+  - first:
+      213: 21300298
+    second: zerox6_149
+  - first:
+      213: 21300300
+    second: zerox6_150
+  - first:
+      213: 21300302
+    second: zerox6_151
+  - first:
+      213: 21300304
+    second: zerox6_152
+  - first:
+      213: 21300306
+    second: zerox6_153
+  - first:
+      213: 21300308
+    second: zerox6_154
+  - first:
+      213: 21300310
+    second: zerox6_155
+  - first:
+      213: 21300312
+    second: zerox6_156
+  - first:
+      213: 21300314
+    second: zerox6_157
+  - first:
+      213: 21300316
+    second: zerox6_158
+  - first:
+      213: 21300318
+    second: zerox6_159
+  - first:
+      213: 21300320
+    second: zerox6_160
+  - first:
+      213: 21300322
+    second: zerox6_161
+  - first:
+      213: 21300324
+    second: zerox6_162
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -186,6 +510,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -196,7 +522,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: 0
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -216,11 +542,14 @@ TextureImporter:
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -230,7 +559,9 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - buildTarget: Standalone
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -240,6 +571,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -257,6 +589,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_1
       rect:
@@ -271,6 +610,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_2
       rect:
@@ -285,6 +631,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_3
       rect:
@@ -299,6 +652,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_4
       rect:
@@ -313,6 +673,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_5
       rect:
@@ -327,6 +694,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_6
       rect:
@@ -341,6 +715,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_7
       rect:
@@ -355,6 +736,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_8
       rect:
@@ -369,6 +757,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_9
       rect:
@@ -383,6 +778,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_10
       rect:
@@ -397,6 +799,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_11
       rect:
@@ -411,6 +820,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_12
       rect:
@@ -425,6 +841,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_13
       rect:
@@ -439,6 +862,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_14
       rect:
@@ -453,6 +883,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_15
       rect:
@@ -467,6 +904,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_16
       rect:
@@ -481,6 +925,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_17
       rect:
@@ -495,6 +946,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_18
       rect:
@@ -509,6 +967,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_19
       rect:
@@ -523,6 +988,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_20
       rect:
@@ -537,6 +1009,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_21
       rect:
@@ -551,6 +1030,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_22
       rect:
@@ -565,6 +1051,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_23
       rect:
@@ -579,6 +1072,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_24
       rect:
@@ -593,6 +1093,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_25
       rect:
@@ -607,6 +1114,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_26
       rect:
@@ -621,6 +1135,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_27
       rect:
@@ -635,6 +1156,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_28
       rect:
@@ -649,6 +1177,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_29
       rect:
@@ -663,6 +1198,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_30
       rect:
@@ -677,6 +1219,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_31
       rect:
@@ -691,6 +1240,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_32
       rect:
@@ -705,6 +1261,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_33
       rect:
@@ -719,6 +1282,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_34
       rect:
@@ -733,6 +1303,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_35
       rect:
@@ -747,6 +1324,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_36
       rect:
@@ -761,6 +1345,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_37
       rect:
@@ -775,6 +1366,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_38
       rect:
@@ -789,6 +1387,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_39
       rect:
@@ -803,6 +1408,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_40
       rect:
@@ -817,6 +1429,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_41
       rect:
@@ -831,6 +1450,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_42
       rect:
@@ -845,6 +1471,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_43
       rect:
@@ -859,6 +1492,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_44
       rect:
@@ -873,6 +1513,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_45
       rect:
@@ -887,6 +1534,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_46
       rect:
@@ -901,6 +1555,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_47
       rect:
@@ -915,6 +1576,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_48
       rect:
@@ -929,6 +1597,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_49
       rect:
@@ -943,6 +1618,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_50
       rect:
@@ -957,6 +1639,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_51
       rect:
@@ -971,6 +1660,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_52
       rect:
@@ -985,6 +1681,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_53
       rect:
@@ -999,6 +1702,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_54
       rect:
@@ -1013,6 +1723,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_55
       rect:
@@ -1027,6 +1744,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_56
       rect:
@@ -1041,6 +1765,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_57
       rect:
@@ -1055,6 +1786,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_58
       rect:
@@ -1069,6 +1807,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_59
       rect:
@@ -1083,6 +1828,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_60
       rect:
@@ -1097,6 +1849,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_61
       rect:
@@ -1111,6 +1870,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_62
       rect:
@@ -1125,6 +1891,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_63
       rect:
@@ -1139,6 +1912,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_64
       rect:
@@ -1153,6 +1933,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_65
       rect:
@@ -1167,6 +1954,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_66
       rect:
@@ -1181,6 +1975,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_67
       rect:
@@ -1195,6 +1996,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_68
       rect:
@@ -1209,6 +2017,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_69
       rect:
@@ -1223,6 +2038,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_70
       rect:
@@ -1237,6 +2059,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_71
       rect:
@@ -1251,6 +2080,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_72
       rect:
@@ -1265,6 +2101,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_73
       rect:
@@ -1279,6 +2122,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_74
       rect:
@@ -1293,6 +2143,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_75
       rect:
@@ -1307,6 +2164,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_76
       rect:
@@ -1321,6 +2185,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_77
       rect:
@@ -1335,6 +2206,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_78
       rect:
@@ -1349,6 +2227,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_79
       rect:
@@ -1363,6 +2248,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_80
       rect:
@@ -1377,6 +2269,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_81
       rect:
@@ -1391,6 +2290,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_82
       rect:
@@ -1405,6 +2311,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_83
       rect:
@@ -1419,6 +2332,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_84
       rect:
@@ -1433,6 +2353,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_85
       rect:
@@ -1447,6 +2374,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_86
       rect:
@@ -1461,6 +2395,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_87
       rect:
@@ -1475,6 +2416,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_88
       rect:
@@ -1489,6 +2437,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_89
       rect:
@@ -1503,6 +2458,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_90
       rect:
@@ -1517,6 +2479,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_91
       rect:
@@ -1531,6 +2500,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_92
       rect:
@@ -1545,6 +2521,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_93
       rect:
@@ -1559,6 +2542,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_94
       rect:
@@ -1573,6 +2563,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_95
       rect:
@@ -1587,6 +2584,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_96
       rect:
@@ -1601,6 +2605,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_97
       rect:
@@ -1615,6 +2626,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_98
       rect:
@@ -1629,6 +2647,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_99
       rect:
@@ -1643,6 +2668,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_100
       rect:
@@ -1657,6 +2689,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_101
       rect:
@@ -1671,6 +2710,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_102
       rect:
@@ -1685,6 +2731,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_103
       rect:
@@ -1699,6 +2752,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_104
       rect:
@@ -1713,6 +2773,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_105
       rect:
@@ -1727,6 +2794,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_106
       rect:
@@ -1741,6 +2815,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_107
       rect:
@@ -1755,6 +2836,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_108
       rect:
@@ -1769,6 +2857,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_109
       rect:
@@ -1783,6 +2878,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_110
       rect:
@@ -1797,6 +2899,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_111
       rect:
@@ -1811,6 +2920,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_112
       rect:
@@ -1825,6 +2941,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_113
       rect:
@@ -1839,6 +2962,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_114
       rect:
@@ -1853,6 +2983,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_115
       rect:
@@ -1867,6 +3004,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_116
       rect:
@@ -1881,6 +3025,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_117
       rect:
@@ -1895,6 +3046,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_118
       rect:
@@ -1909,6 +3067,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_119
       rect:
@@ -1923,6 +3088,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_120
       rect:
@@ -1937,6 +3109,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_121
       rect:
@@ -1951,6 +3130,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_122
       rect:
@@ -1965,6 +3151,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_123
       rect:
@@ -1979,6 +3172,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_124
       rect:
@@ -1993,6 +3193,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_125
       rect:
@@ -2007,6 +3214,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_126
       rect:
@@ -2021,6 +3235,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_127
       rect:
@@ -2035,6 +3256,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_128
       rect:
@@ -2049,6 +3277,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_129
       rect:
@@ -2063,6 +3298,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_130
       rect:
@@ -2077,6 +3319,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_131
       rect:
@@ -2091,6 +3340,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_132
       rect:
@@ -2105,6 +3361,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_133
       rect:
@@ -2119,6 +3382,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_134
       rect:
@@ -2133,6 +3403,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_135
       rect:
@@ -2147,6 +3424,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_136
       rect:
@@ -2161,6 +3445,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_137
       rect:
@@ -2175,6 +3466,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_138
       rect:
@@ -2189,6 +3487,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_139
       rect:
@@ -2203,6 +3508,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_140
       rect:
@@ -2217,6 +3529,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_141
       rect:
@@ -2231,6 +3550,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_142
       rect:
@@ -2245,6 +3571,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_143
       rect:
@@ -2259,6 +3592,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_144
       rect:
@@ -2273,6 +3613,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_145
       rect:
@@ -2287,6 +3634,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_146
       rect:
@@ -2301,6 +3655,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_147
       rect:
@@ -2315,6 +3676,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_148
       rect:
@@ -2329,6 +3697,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_149
       rect:
@@ -2343,6 +3718,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_150
       rect:
@@ -2357,6 +3739,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_151
       rect:
@@ -2371,6 +3760,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_152
       rect:
@@ -2385,6 +3781,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_153
       rect:
@@ -2399,6 +3802,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_154
       rect:
@@ -2413,6 +3823,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_155
       rect:
@@ -2427,6 +3844,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_156
       rect:
@@ -2441,6 +3865,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_157
       rect:
@@ -2455,6 +3886,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_158
       rect:
@@ -2469,6 +3907,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_159
       rect:
@@ -2483,6 +3928,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_160
       rect:
@@ -2497,6 +3949,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_161
       rect:
@@ -2511,6 +3970,13 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: zerox6_162
       rect:
@@ -2525,9 +3991,26 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
