@@ -1,0 +1,84 @@
+-5 planos de fundo
+
+FRENTE FRENTE, bem detalhada sem interação só fru-fru pra botar coisinhas e falar: -nossa que detalhe legal :)
+
+
+	FRENTE DA PLATAFORMA. Serve para dar uma noção de tridimensionalidade em um ambiente 2d, aqui encontramos postes de luz e as vigas que sustentam a ponte, na qual andamos 
+        na maior parte da fase. Sem interação.
+
+
+		PLATAFORMA, aonde acontece a ação do jogo e interação absoluta entre personagens e inimigos.
+
+
+			ATRÁS DA PLATAFORMA (background), aréa não interativas. Servem para dar vida a fase e exemplificar aonde estamos.São encontrados aqui luzes de 
+                         rodovias, carros em movimento ou parados por estarem destruídos.
+
+
+				FUNDÃO, maior parte da identidade da fase, aqui que encontramos. No começo apenas rodovias, vias expressas de diversos
+ 
+                                 ângulos cercadas de uma industrialização fervorosa e casas muito pequenas simbolizadas apenas por luzes ao fundo e para
+                                 baixo da fase. As pontes por estarem, em tese, mais perto de nós, apresentam uma quantidade de detalhamento significativo 
+                                 porém não exagerado. No decorrer da fase, vamos em direção ao perigo, e com isso mais inimigos e mais destruição.
+                                 São localizados na fase, neste ponto é possível notar a historia sendo contada por meio da destruição, áreas ainda não 
+                                 acessadas pelos"vilões" permanecem intactas( começo da fase, aonde nascemos ) e a medida que vamos pra frente vemos mais 
+                                 destruição, ou seja nossos inimigos já apssaram por alii e já tocaram o terror. Quando iniciamos o jogo podemos ver alguns
+				 veículos vindo a nossa direção, exposto agora o do porque acima, nota-se que estavam fugindo do perigo. A medida que andamos,
+				 os veículos não mais andam e estão aos cacos, as casas que antes eram apenas pontinhos de luz, agora são prédios enormes que
+                                 mesmo distantes, são notados por sua verticalidade grandiosa de seus diversos tamanhos. No fim, as estradas não
+				 mais visíveis e agora somos contemplados por um ambiente pré-estrada, os guiches de rodovia, onde supostamente deveriamos pagar
+				 pedágio. Agora já destruidos, tal tarefa aparenta ser um tanto quanto desnecessária. Avançando um pouco mais, chegamos em um 
+				 plano que aparenta ser um orelhão do futuro sem o formato de orelha verde, e ao ultrapassá-lo, executa a função de paredinha 
+				 clássica do Megamen, indicando que a frente há um BOSS. 
+
+
+- Inimigos
+
+RODA COM ESPINHOS
+vc consegue pular, ataque: que roda e vem a sua direção
+
+COGUMELO METÁLICO DE PERINHANS PEQUENAS
+vc não consegue pular, ataque: abaixa e dispara um projetil
+
+ET COM A BROCA MINADA
+vc pode ignorar.Ataque: derruba uma espécie de mina que destroi aos poucos o chão da fase, cerca de 1/4 para baixo e largura de 3 megamens. Quando morto ainda derruba a mina, porém a mina perde sua larga de 4 megamens para 2
+
+ABELHONA AZUL
+funciona como um sub-boss. demora bem mais para morrer e quando morta derruba uma grande parte da plataforma aonde ela spawnou, apresentando 
+a mecânica de que aonde andamos não é tão seguro. Há a possibilidade de cairmos e morrermos ou acessarmos aréas antes impossíveis por vias comuns.
+
+
+RODA COM PERNAS
+aparentemente só anda em direção ao personagem, provavelmente impulável quando erguida, entretanto quando está a rodar sua altura é mto pequena
+
+ABELINHAS
+andam em um eixo x estático, servem para atrapalhar o pulo personagem para a próxima plataforma
+
+OVINIS ROBOS
+vem mai louco que o bátima vindo frenético para dar dano de contato no personagem. A princípio vão em direção de encontro ao X
+( da direita para a esquerda) e após ele entrar no seu campo de visão começa a descer em eixo y juntamente do movimento prévio de x juntando 2 vetores 
+aumentando sua velocidade para gerar um movimento em diagonal
+
+CARRIN QUE ATIRA E ANDA
+anda e atira, vem da direita anda um pouquinho depois sofre um giro e passa a ir da esquerda para a direita. Quando o piloto é morto o carro continua a andar 
+na direção em que eles estava indo ou vindo. Tal ato permite a possibilidade do personagem sofrer dano de contanto quando encostado na frente do veículo
+em movimento
+
+NAVE DO BOSS DA FASE 
+Atua como um spawner de carrin q anda e atira
+no qual ela fica bem no topo da tela dropando carrin com maverick aleatorios, mate uma quantidade de x enquanto avança para a direita e será suprimido a ação de
+nascer mais bichinhos. Em seguida é nos introduzido o Chefão final do tutorial
+
+BOSS Impossivel, quando reduzida a vida até um estado crítico o jogador perde o controle do personagem e inicia-se uma cut-scene com direito a aparição do 
+mais legal personagem da série, o ZERO. 
+
+
+- Cenário e a história que ele conta
+
+
+Somos teleportados para a fase no clássico estilo megamen. Em seguida percebemos que estamos em uma espécie de rodovia ou estrada futurisa com pontes, 
+passarelas e sinalizações de transito que é espearado em um lugar desses. No decorrer do ângulo X, distanciando mais e mais do ponto ( 0;0 ) passamos de uma
+rodovia sem nenhuma estruta de morada a vista para prédios ao longe, em seguida prédios mais e mais ao nosso alcance visual indicando visualmente que cehgamos
+a civilização próprimente dita. Essa que está sendo atacada por algum motivo por rôbos. No final saimos de um ambiente elevado, rodovia gigante e destroçada,
+para uma que aparente ser uma estrada. Nessa estrada mais plana e provavelmente no nivel do mar, não há elevação aparente. Somos postos no menor 
+nível possivel y, e temos um grande espaço acima de nós para ser ocupado. O céu limpo e entardecido. Que logo mais será ocupado por uma grande nave. Essa talvez
+mãe, de toda a orquestra caótica desenvolvida pela fase inicial.
