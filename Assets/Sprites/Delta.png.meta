@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: a9e5bbc8b36fdb447af34b5d67e7b147
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5891845292887218503
+    second: Delta_0
+  - first:
+      213: 222548895864509547
+    second: Delta_1
+  - first:
+      213: -3878468299225860700
+    second: Delta_2
+  - first:
+      213: -7060718065219759494
+    second: Delta_3
+  - first:
+      213: -9187896789849326464
+    second: Delta_4
+  - first:
+      213: 186751704773400758
+    second: Delta_5
+  - first:
+      213: 2650322000684661978
+    second: Delta_6
+  - first:
+      213: -9000670720804281197
+    second: Delta_7
+  - first:
+      213: -975850418726185433
+    second: Delta_8
+  - first:
+      213: 2761932393215810777
+    second: Delta_9
+  - first:
+      213: 8155837185540515719
+    second: Delta_10
+  - first:
+      213: 7927496459926695158
+    second: Delta_11
+  - first:
+      213: -5906410739555214932
+    second: Delta_12
+  - first:
+      213: -6962602961803029389
+    second: Delta_13
+  - first:
+      213: 1770214617380459193
+    second: Delta_14
+  - first:
+      213: -7459730725596765567
+    second: Delta_15
+  - first:
+      213: -738288164473527996
+    second: Delta_16
+  - first:
+      213: 5917338844093885141
+    second: Delta_17
+  - first:
+      213: 8103210899398302098
+    second: Delta_18
+  - first:
+      213: 6256448022696427568
+    second: Delta_19
+  - first:
+      213: -265888810588772225
+    second: Delta_20
+  - first:
+      213: -7472449350880948804
+    second: Delta_21
+  - first:
+      213: 5273553209949191216
+    second: Delta_22
+  - first:
+      213: -1854276167799570145
+    second: Delta_23
+  - first:
+      213: 5539643674512543500
+    second: Delta_24
+  - first:
+      213: -7314903802734277796
+    second: Delta_25
+  - first:
+      213: 1295925711364184177
+    second: Delta_26
+  - first:
+      213: -3253144743666062224
+    second: Delta_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Delta_0
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1143
+        width: 267
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b666e52ce5fb3ea0800000000000000
+      internalID: -5891845292887218503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1143
+        width: 266
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d82baa07a61300800000000000000
+      internalID: 222548895864509547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_2
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1271
+        width: 251
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5770081a9ec2ac0800000000000000
+      internalID: -3878468299225860700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_3
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1271
+        width: 172
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a729467345a430e90800000000000000
+      internalID: -7060718065219759494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_4
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1264
+        width: 195
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c34189c880e7080800000000000000
+      internalID: -9187896789849326464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_5
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1264
+        width: 283
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b89730afa9779200800000000000000
+      internalID: 186751704773400758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_6
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 1271
+        width: 291
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc363f41d5d7c420800000000000000
+      internalID: 2650322000684661978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 193
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394a332caa1371380800000000000000
+      internalID: -9000670720804281197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 655
+        width: 122
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d8e5e6351572f0800000000000000
+      internalID: -975850418726185433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 655
+        width: 154
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd547d0ea545620800000000000000
+      internalID: 2761932393215810777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 655
+        width: 187
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787601275ba5f2170800000000000000
+      internalID: 8155837185540515719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 655
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce8145700240e60800000000000000
+      internalID: 7927496459926695158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_12
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 655
+        width: 195
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca95243d9b6380ea0800000000000000
+      internalID: -5906410739555214932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_13
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 655
+        width: 242
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374d5a5ee7ddf5f90800000000000000
+      internalID: -6962602961803029389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_14
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 895
+        width: 219
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29a25c0d0119810800000000000000
+      internalID: 1770214617380459193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_15
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 895
+        width: 187
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182ecbcad66b97890800000000000000
+      internalID: -7459730725596765567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_16
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 887
+        width: 211
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4412ea673d211c5f0800000000000000
+      internalID: -738288164473527996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_17
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 895
+        width: 258
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da26d9c35c9e1250800000000000000
+      internalID: 5917338844093885141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_18
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 895
+        width: 297
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29995be5163647070800000000000000
+      internalID: 8103210899398302098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 234
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030048c145e53d650800000000000000
+      internalID: 6256448022696427568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 272
+        width: 194
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ea17198f5f4cf0800000000000000
+      internalID: -265888810588772225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 272
+        width: 220
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd84a6f7e68c4890800000000000000
+      internalID: -7472449350880948804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_22
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 272
+        width: 251
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c742734bc6f2940800000000000000
+      internalID: 5273553209949191216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_23
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 272
+        width: 251
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1185d656a94446e0800000000000000
+      internalID: -1854276167799570145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_24
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 272
+        width: 241
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f4f895294c0ec40800000000000000
+      internalID: 5539643674512543500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_25
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 272
+        width: 290
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8ed75fbd3c7a90800000000000000
+      internalID: -7314903802734277796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_26
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 0
+        width: 234
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1785821819d0cf110800000000000000
+      internalID: 1295925711364184177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Delta_27
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 0
+        width: 244
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ceade67128ad2d0800000000000000
+      internalID: -3253144743666062224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
