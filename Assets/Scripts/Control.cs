@@ -19,7 +19,7 @@ public class Control : MonoBehaviour
         xmov = Input.GetAxis("Horizontal");
         if (Input.GetButtonDown("Jump"))
         {
-            if (jumptime < 0.1f)
+            if (jumptime < 10.0f)
             {
                 doublejump = true;
             }
@@ -84,7 +84,7 @@ public class Control : MonoBehaviour
     /// <param name="hit">coloque aqui o raycast hit para altura do chao</param>
     private void JumpRoutine(RaycastHit2D hit)
     {
-        if (hit.distance < 0.1f)
+        if (hit.distance < 10.0f)
         {
             jumptime = 1;
         }
@@ -135,11 +135,11 @@ public class Control : MonoBehaviour
     }
     void PhisicalReverser()
     {
-        if (rdb.velocity.x > 0.1f)
+        if (rdb.velocity.x > 10.0f)
         {
             transform.rotation = Quaternion.Euler(0, 0, 0);
         }
-        if (rdb.velocity.x < 0.1f)
+        if (rdb.velocity.x < 10.0f)
         {
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
