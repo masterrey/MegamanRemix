@@ -587,6 +587,9 @@ TextureImporter:
   - first:
       213: 21300388
     second: zerox4sheet_194
+  - first:
+      213: 167546590671947283
+    second: zerox4sheet_195
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -617,8 +620,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -1518,7 +1521,7 @@ TextureImporter:
         x: 375
         y: 1235
         width: 46
-        height: 47
+        height: 48
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2145,7 +2148,7 @@ TextureImporter:
       name: zerox4sheet_70
       rect:
         serializedVersion: 2
-        x: 279
+        x: 278
         y: 993
         width: 83
         height: 45
@@ -4766,10 +4769,31 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: zerox4sheet_195
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 799
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316445c8cbe335200800000000000000
+      internalID: 167546590671947283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: de9b91dd2de52f6468c1a9c50dd8d4c7
     internalID: 0
     vertices: []
     indices: 

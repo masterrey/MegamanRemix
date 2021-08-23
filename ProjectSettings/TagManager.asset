@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Damage
+  - Bullet
+  - Explosion
+  - Ground
+  - Spike
+  - MovableObjects
+  - OnlyCollideWithMovableObjects
   layers:
   - Default
   - TransparentFX
@@ -15,11 +21,11 @@ TagManager:
   - 
   - 
   - corrente
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Bullet
+  - Objects
+  - Particles
+  - OnlyCollidesWithMovableObjects
+  - MovableObjects
   - 
   - 
   - 
