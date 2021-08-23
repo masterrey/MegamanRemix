@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 97f59bb9fadc1a04687508739ab82e9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6248305969228512218
+    second: Black_Ninja_Animacoe_0
+  - first:
+      213: 8726179519611742594
+    second: Black_Ninja_Animacoe_1
+  - first:
+      213: 7081363988241006320
+    second: Black_Ninja_Animacoe_2
+  - first:
+      213: 5142098541756384366
+    second: Black_Ninja_Animacoe_3
+  - first:
+      213: 342620561100520312
+    second: Black_Ninja_Animacoe_4
+  - first:
+      213: -1694159378925403995
+    second: Black_Ninja_Animacoe_5
+  - first:
+      213: 2456181189196580060
+    second: Black_Ninja_Animacoe_6
+  - first:
+      213: 2528179344555360809
+    second: Black_Ninja_Animacoe_7
+  - first:
+      213: -8347532938300466363
+    second: Black_Ninja_Animacoe_8
+  - first:
+      213: 1800940917725411400
+    second: Black_Ninja_Animacoe_9
+  - first:
+      213: -8869493903523911081
+    second: Black_Ninja_Animacoe_10
+  - first:
+      213: 9011384910758627067
+    second: Black_Ninja_Animacoe_11
+  - first:
+      213: 3163016183132914711
+    second: Black_Ninja_Animacoe_12
+  - first:
+      213: -2968962782918561329
+    second: Black_Ninja_Animacoe_13
+  - first:
+      213: 3021757465110784596
+    second: Black_Ninja_Animacoe_14
+  - first:
+      213: 2991766979768199200
+    second: Black_Ninja_Animacoe_15
+  - first:
+      213: 4026608110580947078
+    second: Black_Ninja_Animacoe_16
+  - first:
+      213: 2109472732412557058
+    second: Black_Ninja_Animacoe_17
+  - first:
+      213: 884428892097146651
+    second: Black_Ninja_Animacoe_18
+  - first:
+      213: 3087524979001756034
+    second: Black_Ninja_Animacoe_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 386
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb71df8c2176b650800000000000000
+      internalID: 6248305969228512218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 411
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2892fb03a0e991970800000000000000
+      internalID: 8726179519611742594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 421
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe3954570f064260800000000000000
+      internalID: 7081363988241006320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 406
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64817531676c5740800000000000000
+      internalID: 5142098541756384366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 403
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b3425c59b31c400800000000000000
+      internalID: 342620561100520312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 370
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0414a55032d78e0800000000000000
+      internalID: -1694159378925403995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 375
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd40f0637cb161220800000000000000
+      internalID: 2456181189196580060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 329
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922c3b018b5e51320800000000000000
+      internalID: 2528179344555360809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_8
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 287
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b5abd050b972c80800000000000000
+      internalID: -8347532938300466363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 231
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8483d7e093a3ef810800000000000000
+      internalID: 1800940917725411400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 231
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae6fe894a39e480800000000000000
+      internalID: -8869493903523911081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 231
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6451cf4dede0d70800000000000000
+      internalID: 9011384910758627067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 232
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714037ec57a45eb20800000000000000
+      internalID: 3163016183132914711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 231
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b8c444102cc6d0800000000000000
+      internalID: -2968962782918561329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 231
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a205197607fe920800000000000000
+      internalID: 3021757465110784596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 157
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028a3df8734e48920800000000000000
+      internalID: 2991766979768199200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 157
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68852e02eb261e730800000000000000
+      internalID: 4026608110580947078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b2de064a564d10800000000000000
+      internalID: 2109472732412557058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 78
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fea86346f164c00800000000000000
+      internalID: 884428892097146651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Ninja_Animacoe_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 78
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2898b882c9719da20800000000000000
+      internalID: 3087524979001756034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
