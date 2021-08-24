@@ -121,6 +121,7 @@ The following packages were updated:
 The following packages were removed:
   com.unity.package-manager-ui@2.1.2
 
+=== Tue Aug 24 11:57:37 2021
 
 Packages were changed.
 Update Mode: updateDependencies
