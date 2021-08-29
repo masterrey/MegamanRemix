@@ -1,46 +1,55 @@
 fileFormatVersion: 2
-guid: 379d8652c8e4f0b4486ed30a61687cc9
+guid: 61c5f05612addd54da7563a4f27a0786
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_0
+      213: -2822293988592758661
+    second: propscemiterio 1_0
   - first:
-      213: 21300002
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_1
+      213: 948647631419692564
+    second: propscemiterio 1_1
   - first:
-      213: 21300004
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_2
+      213: 6821100273329705293
+    second: propscemiterio 1_2
   - first:
-      213: 21300006
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_3
+      213: 2725169683692196219
+    second: propscemiterio 1_3
   - first:
-      213: 21300008
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_4
+      213: -2324798874469246389
+    second: propscemiterio 1_4
   - first:
-      213: 21300010
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_5
+      213: 7556631938085976931
+    second: propscemiterio 1_5
   - first:
-      213: 21300012
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_6
+      213: 1791472490587874439
+    second: propscemiterio 1_6
   - first:
-      213: 21300014
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_7
+      213: 1111764879584149713
+    second: propscemiterio 1_7
   - first:
-      213: 21300016
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_8
+      213: -3975363867637978113
+    second: propscemiterio 1_8
   - first:
-      213: 21300018
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_9
+      213: 8463875103320711455
+    second: propscemiterio 1_9
   - first:
-      213: 21300020
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_10
+      213: 5014768521036324545
+    second: propscemiterio 1_10
   - first:
-      213: 21300022
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_11
+      213: -1722919193524286701
+    second: propscemiterio 1_11
   - first:
-      213: 21300024
-    second: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_12
+      213: -7325706495242924221
+    second: propscemiterio 1_12
+  - first:
+      213: -665707147726842693
+    second: propscemiterio 1_13
+  - first:
+      213: 9010023698449605039
+    second: propscemiterio 1_14
+  - first:
+      213: -6578472652182563046
+    second: propscemiterio 1_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 50
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +117,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -120,279 +129,342 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_0
+      name: propscemiterio 1_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 284
-        width: 103
-        height: 54
+        x: 21
+        y: 120
+        width: 15
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02305410000000000800000000000000
-      internalID: 21300000
+      spriteID: b603f154628fddb48a658b8dd53a3b66
+      internalID: -2822293988592758661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_1
+      name: propscemiterio 1_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 284
-        width: 103
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22305410000000000800000000000000
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_2
-      rect:
-        serializedVersion: 2
-        x: 247
-        y: 286
-        width: 103
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42305410000000000800000000000000
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_3
-      rect:
-        serializedVersion: 2
-        x: 388
-        y: 321
+        x: 47
+        y: 114
         width: 18
-        height: 19
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62305410000000000800000000000000
-      internalID: 21300006
+      spriteID: b6c3cc906d54e2942a43a1d4d22fa574
+      internalID: 948647631419692564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_4
+      name: propscemiterio 1_2
       rect:
         serializedVersion: 2
-        x: 435
-        y: 321
-        width: 19
-        height: 19
+        x: 76
+        y: 118
+        width: 21
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82305410000000000800000000000000
-      internalID: 21300008
+      spriteID: fac06734572d91e4482fceb6980d79c5
+      internalID: 6821100273329705293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_5
+      name: propscemiterio 1_3
       rect:
         serializedVersion: 2
-        x: 14
-        y: 194
-        width: 151
-        height: 68
+        x: 103
+        y: 119
+        width: 17
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2305410000000000800000000000000
-      internalID: 21300010
+      spriteID: 0b30dca18cc0c5743ad97e4be6bfb6af
+      internalID: 2725169683692196219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_6
+      name: propscemiterio 1_4
       rect:
         serializedVersion: 2
-        x: 181
-        y: 194
-        width: 151
-        height: 68
+        x: 157
+        y: 115
+        width: 13
+        height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2305410000000000800000000000000
-      internalID: 21300012
+      spriteID: 0682cf6f1bb82d7418550e2f34708cb6
+      internalID: -2324798874469246389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_7
+      name: propscemiterio 1_5
       rect:
         serializedVersion: 2
-        x: 347
-        y: 196
-        width: 151
-        height: 68
+        x: 178
+        y: 115
+        width: 16
+        height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2305410000000000800000000000000
-      internalID: 21300014
+      spriteID: c5337104512b9994e9c27a47241cf782
+      internalID: 7556631938085976931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_8
+      name: propscemiterio 1_6
       rect:
         serializedVersion: 2
-        x: 17
-        y: 128
-        width: 110
-        height: 48
+        x: 200
+        y: 115
+        width: 16
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03305410000000000800000000000000
-      internalID: 21300016
+      spriteID: 96dcabf8192997f40867592599f023cf
+      internalID: 1791472490587874439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_9
+      name: propscemiterio 1_7
       rect:
         serializedVersion: 2
-        x: 135
-        y: 128
-        width: 110
-        height: 48
+        x: 216
+        y: 118
+        width: 6
+        height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23305410000000000800000000000000
-      internalID: 21300018
+      spriteID: 611097949faf14d4f99efff3e3d8aa88
+      internalID: 1111764879584149713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_10
+      name: propscemiterio 1_8
       rect:
         serializedVersion: 2
-        x: 258
-        y: 128
-        width: 110
-        height: 48
+        x: 221
+        y: 115
+        width: 12
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43305410000000000800000000000000
-      internalID: 21300020
+      spriteID: 11bebeae58ceed845b8752ac19918317
+      internalID: -3975363867637978113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_11
+      name: propscemiterio 1_9
       rect:
         serializedVersion: 2
-        x: 37
-        y: 14
-        width: 181
-        height: 82
+        x: 5
+        y: 87
+        width: 13
+        height: 9
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63305410000000000800000000000000
-      internalID: 21300022
+      spriteID: dbb1614a364f7494ebb5acf2fd4c2e58
+      internalID: 8463875103320711455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_12
+      name: propscemiterio 1_10
       rect:
         serializedVersion: 2
-        x: 300
-        y: 12
-        width: 154
-        height: 83
+        x: 29
+        y: 85
+        width: 14
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83305410000000000800000000000000
-      internalID: 21300024
+      spriteID: 86b45f99710e68643b06894eedca3cb9
+      internalID: 5014768521036324545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 1_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126e1ba77a29094581dc99f54ede834
+      internalID: -1722919193524286701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 1_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7257f3ed763f4c443bc9af28d7e89fe5
+      internalID: -7325706495242924221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 1_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f0c29843ff0645bce392048a128fc
+      internalID: -665707147726842693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 1_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 8
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1312093c6800472438c1a3f6d5b57294
+      internalID: 9010023698449605039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 1_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2703080aab70504a89d8f199f61bae3
+      internalID: -6578472652182563046
       vertices: []
       indices: 
       edges: []
@@ -400,7 +472,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -408,8 +480,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
   spritePackingTag: 
-  pSDRemoveMatte: 1
-  pSDShowRemoveMatteOption: 1
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

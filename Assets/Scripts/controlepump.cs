@@ -41,7 +41,7 @@ public class controlepump : MonoBehaviour
         }
         if(Input.GetKeyDown(KeyCode.Space))
         {
-            GetComponent<Rigidbody2D>().AddForce(new Vector2 (0,4),ForceMode2D.Impulse);   
+            GetComponent<Rigidbody2D>().AddForce(new Vector2 (0,3),ForceMode2D.Impulse);   
             GetComponent<Animator>().SetBool("PULO",true);
         }
         else
