@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class controlepump : MonoBehaviour
 {
+    Vector3 inicio;
     // Start is called before the first frame update
     void Start()
     {
-        
+        inicio = gameObject.transform.position;
     }
 
     // Update is called once per frame
@@ -49,5 +50,13 @@ public class controlepump : MonoBehaviour
             GetComponent<Animator>().SetBool("PULO",false);
         }
         //Teste di rati
+    }
+    private void OnCollisionEnter2D(Collision2D collision) 
+    {
+        if(collision.gameObject.tag=="TirarVida") 
+        {
+            gameObject.transform.position = inicio;
+            Debug.Log("morreu");
+        }
     }
 }
