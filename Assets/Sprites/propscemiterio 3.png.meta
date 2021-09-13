@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: 6004aa2a570db3e4ab0f6ffc8d48b473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5540889156965644029
+    second: propscemiterio 3_0
+  - first:
+      213: -202338714209432253
+    second: propscemiterio 3_1
+  - first:
+      213: -7312416368212610312
+    second: propscemiterio 3_2
+  - first:
+      213: 6751065697551753406
+    second: propscemiterio 3_3
+  - first:
+      213: -3419231165793609854
+    second: propscemiterio 3_4
+  - first:
+      213: -1515282642711148232
+    second: propscemiterio 3_5
+  - first:
+      213: 6974992173198336359
+    second: propscemiterio 3_6
+  - first:
+      213: -6963816144713963091
+    second: propscemiterio 3_7
+  - first:
+      213: -1645218421877479102
+    second: propscemiterio 3_8
+  - first:
+      213: 7343753949148038909
+    second: propscemiterio 3_9
+  - first:
+      213: -4833235464282603034
+    second: propscemiterio 3_10
+  - first:
+      213: 3450392586119450108
+    second: propscemiterio 3_11
+  - first:
+      213: 3489536451493230599
+    second: propscemiterio 3_12
+  - first:
+      213: -2417742027594381852
+    second: propscemiterio 3_13
+  - first:
+      213: -2599456734594417989
+    second: propscemiterio 3_14
+  - first:
+      213: 259383884219923429
+    second: propscemiterio 3_15
+  - first:
+      213: 2903454919244925493
+    second: propscemiterio 3_16
+  - first:
+      213: 5596657145262319148
+    second: propscemiterio 3_17
+  - first:
+      213: -6568003410133409287
+    second: propscemiterio 3_18
+  - first:
+      213: -8938901412383287340
+    second: propscemiterio 3_19
+  - first:
+      213: 4894091797500018137
+    second: propscemiterio 3_20
+  - first:
+      213: 1159186144019638182
+    second: propscemiterio 3_21
+  - first:
+      213: -9063092906617436449
+    second: propscemiterio 3_22
+  - first:
+      213: 1230685933751305940
+    second: propscemiterio 3_23
+  - first:
+      213: 5538319910617269200
+    second: propscemiterio 3_24
+  - first:
+      213: -4362008270540069720
+    second: propscemiterio 3_25
+  - first:
+      213: -3536632647446484437
+    second: propscemiterio 3_26
+  - first:
+      213: -5931869623295602121
+    second: propscemiterio 3_27
+  - first:
+      213: 6659367831543195041
+    second: propscemiterio 3_28
+  - first:
+      213: -4520569639918930308
+    second: propscemiterio 3_29
+  - first:
+      213: -7739500755705016321
+    second: propscemiterio 3_30
+  - first:
+      213: 2848556650557128168
+    second: propscemiterio 3_31
+  - first:
+      213: -3328105814754686448
+    second: propscemiterio 3_32
+  - first:
+      213: -3544793880299382256
+    second: propscemiterio 3_33
+  - first:
+      213: -5591679307253351779
+    second: propscemiterio 3_44
+  - first:
+      213: 4188984675352844016
+    second: propscemiterio 3_45
+  - first:
+      213: 8001282862974704100
+    second: propscemiterio 3_46
+  - first:
+      213: 3059243542668161818
+    second: propscemiterio 3_47
+  - first:
+      213: -3215821971159028308
+    second: propscemiterio 3_48
+  - first:
+      213: 5646506334454134178
+    second: propscemiterio 3_34
+  - first:
+      213: -6026760880392130619
+    second: propscemiterio 3_35
+  - first:
+      213: 406522493804727463
+    second: propscemiterio 3_36
+  - first:
+      213: 3416002370005922869
+    second: propscemiterio 3_37
+  - first:
+      213: -4603972795405912987
+    second: propscemiterio 3_38
+  - first:
+      213: 8187535122297971215
+    second: propscemiterio 3_39
+  - first:
+      213: -3927692491287380760
+    second: propscemiterio 3_40
+  - first:
+      213: -8204167535466778568
+    second: propscemiterio 3_41
+  - first:
+      213: -5750559377400925860
+    second: propscemiterio 3_42
+  - first:
+      213: 7917655321338718985
+    second: propscemiterio 3_43
+  - first:
+      213: 6973267398329282801
+    second: propscemiterio 3_49
+  - first:
+      213: -5353794812380499719
+    second: propscemiterio 3_50
+  - first:
+      213: -5839573088860473693
+    second: propscemiterio 3_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: propscemiterio 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f21f5badff734ba89b5c8675b83cc
+      internalID: -5540889156965644029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c007c739ea844064d8817e2a3ceef047
+      internalID: -202338714209432253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcbc9abd197f5a40a2e3ca6283089c2
+      internalID: -7312416368212610312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd975bd32b040408f1714d4b99175a
+      internalID: 6751065697551753406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd014f920714c334687f2d7e3cd36090
+      internalID: -3419231165793609854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0dec59c892b5748858f218f5da70f7
+      internalID: -1515282642711148232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96050d6f80b0ae4478134e73996ab7d2
+      internalID: 6974992173198336359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7f2845b1267841a4790d8ef675fa3
+      internalID: -6963816144713963091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77a8ee59dc28b4e875166b843ba53b
+      internalID: -1645218421877479102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bc81da98ae62149bbaf3016ce2fa5a
+      internalID: 7343753949148038909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2926eaf2799bd36498d1d2ffddd55335
+      internalID: -4833235464282603034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0487f59ee70d2fc428737fe7a9a904b7
+      internalID: 3450392586119450108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 192
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4923d2a9df7e184f82c2254991070bd
+      internalID: 3489536451493230599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d47ebccc3e86674cac723f6954003dd
+      internalID: -2417742027594381852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 192
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5389d90acab3345a3e102793a60252
+      internalID: -2599456734594417989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a162ccc4dbaf064eb7dc1ee996002ff
+      internalID: 259383884219923429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a667380b1ecac4eb026607d29e660c
+      internalID: 2903454919244925493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0370267482e984c83f341721e10621
+      internalID: 5596657145262319148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee5a4c50f2c7ac438c187f1760ed8f2
+      internalID: -6568003410133409287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7600f31299b3c4b8443f7387a3895e
+      internalID: -8938901412383287340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c3aa67f7449b4a90e929113917de1
+      internalID: 4894091797500018137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f2b3fcef05b904cb960114bc034597
+      internalID: 1159186144019638182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3a576bc075a624e8f7b2314e7ec2b6
+      internalID: -9063092906617436449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d364f4f3364ae4cac4c3649e6b2b7b
+      internalID: 1230685933751305940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98127cf41fa9df14c89be61e93a515d5
+      internalID: 5538319910617269200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef9dc18655356448b771892a2fb6ad
+      internalID: -4362008270540069720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22520dda47774cc4fa3a8e9b0195697e
+      internalID: -3536632647446484437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e818f47273ff5418e8c9d54cd29b3a
+      internalID: -5931869623295602121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde805c80fc0899419850effc55a0b43
+      internalID: 6659367831543195041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbe12d33bc8a9945951fa49f1daf3bb
+      internalID: -4520569639918930308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 96
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ae23414039b543977da3a2b90c986
+      internalID: -7739500755705016321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329ac63f0140804095a64007f736b27
+      internalID: 2848556650557128168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd33740ed63eed46bc94e5e5d677483
+      internalID: -3328105814754686448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 30
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9905edab71854047ba2eb284f66e839
+      internalID: -3544793880299382256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcf0230dd4176e478e9ca729b1876da
+      internalID: -5591679307253351779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 8
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07990072054f2e4aac8174f0270877f
+      internalID: 4188984675352844016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 9
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554b011dcc4ddc64b9b24b37986b0bb7
+      internalID: 8001282862974704100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c6cab9f0e67f458507ef1e3bff80b
+      internalID: 3059243542668161818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e776d6026f2bd49ad1c22a8cbb00c7
+      internalID: -3215821971159028308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc00ca10207c5f34387e02ce5b5d0a01
+      internalID: 5646506334454134178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 13
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a677aafa8abb77c4282d859f99876c6f
+      internalID: -6026760880392130619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd6b8d935a129448cd13a56cee6a26
+      internalID: 406522493804727463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 15
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7767416de38d3741b634af391c2e913
+      internalID: 3416002370005922869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d07cc5fce4a4f4db8388af1b1d5670
+      internalID: -4603972795405912987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35805ac72e7df3f4a94f8f606d9b16b9
+      internalID: 8187535122297971215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_40
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 14
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04803e93de3849e4fae26d4e7143af94
+      internalID: -3927692491287380760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 14
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b872434b8baa764688a81bc36ba5695
+      internalID: -8204167535466778568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 14
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af6c87bc0fccd48a3b1519f521a8f0
+      internalID: -5750559377400925860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c644d345bb7c7094fabe98e69e22de91
+      internalID: 7917655321338718985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_49
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 14
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79d721332533349a82b42b73feedb0
+      internalID: 6973267398329282801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2239374c6608654469b53c7d961b4e1c
+      internalID: -5353794812380499719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: propscemiterio 3_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93090a9db304e4b43862f3e0e9b302b6
+      internalID: -5839573088860473693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
