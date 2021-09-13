@@ -1,0 +1,1364 @@
+fileFormatVersion: 2
+guid: 5ba6fa6ba66c32b4aa8f12558d3d9095
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3163528622285691351
+    second: esquilo_do_mal_0
+  - first:
+      213: -5334782181734999108
+    second: esquilo_do_mal_1
+  - first:
+      213: -6313549043513995775
+    second: esquilo_do_mal_2
+  - first:
+      213: 1335458775863197990
+    second: esquilo_do_mal_3
+  - first:
+      213: 1540502422173292198
+    second: esquilo_do_mal_4
+  - first:
+      213: -8715351357816736402
+    second: esquilo_do_mal_5
+  - first:
+      213: 9164320109971508909
+    second: esquilo_do_mal_6
+  - first:
+      213: 8076984922002795336
+    second: esquilo_do_mal_7
+  - first:
+      213: 8055370687257866275
+    second: esquilo_do_mal_8
+  - first:
+      213: -7879220417327878908
+    second: esquilo_do_mal_9
+  - first:
+      213: 3342126814213972910
+    second: esquilo_do_mal_10
+  - first:
+      213: 3888461028602888578
+    second: esquilo_do_mal_11
+  - first:
+      213: -8332119894477886410
+    second: esquilo_do_mal_12
+  - first:
+      213: 3065840015356213054
+    second: esquilo_do_mal_13
+  - first:
+      213: 49976155290939227
+    second: esquilo_do_mal_14
+  - first:
+      213: 7716503791550337341
+    second: esquilo_do_mal_15
+  - first:
+      213: -4653737762257933961
+    second: esquilo_do_mal_16
+  - first:
+      213: 4089936254297986395
+    second: esquilo_do_mal_17
+  - first:
+      213: 2452857508046307502
+    second: esquilo_do_mal_18
+  - first:
+      213: 8609591645865774291
+    second: esquilo_do_mal_19
+  - first:
+      213: 714029092929403220
+    second: esquilo_do_mal_20
+  - first:
+      213: 5737895143170261258
+    second: esquilo_do_mal_21
+  - first:
+      213: -7310288230141169002
+    second: esquilo_do_mal_22
+  - first:
+      213: -1902737275102832651
+    second: esquilo_do_mal_23
+  - first:
+      213: -1603489144992905563
+    second: esquilo_do_mal_24
+  - first:
+      213: -1056163011400300975
+    second: esquilo_do_mal_25
+  - first:
+      213: -6155727106436765122
+    second: esquilo_do_mal_26
+  - first:
+      213: 7503148798912156518
+    second: esquilo_do_mal_27
+  - first:
+      213: 3380431977736737837
+    second: esquilo_do_mal_28
+  - first:
+      213: -7530849310894461348
+    second: esquilo_do_mal_29
+  - first:
+      213: -7268013570427363149
+    second: esquilo_do_mal_30
+  - first:
+      213: -6447216607950454676
+    second: esquilo_do_mal_31
+  - first:
+      213: 8936499384743901987
+    second: esquilo_do_mal_32
+  - first:
+      213: -8280008751612552347
+    second: esquilo_do_mal_33
+  - first:
+      213: 8560312577539582404
+    second: esquilo_do_mal_34
+  - first:
+      213: -6526871908905966401
+    second: esquilo_do_mal_35
+  - first:
+      213: -9058509372576073738
+    second: esquilo_do_mal_36
+  - first:
+      213: -6166397267684143019
+    second: esquilo_do_mal_37
+  - first:
+      213: -5548643920637816854
+    second: esquilo_do_mal_38
+  - first:
+      213: 3223708783430002828
+    second: esquilo_do_mal_39
+  - first:
+      213: 7010913757020036655
+    second: esquilo_do_mal_40
+  - first:
+      213: -6852481598245085978
+    second: esquilo_do_mal_41
+  - first:
+      213: -7151738054769517856
+    second: esquilo_do_mal_42
+  - first:
+      213: 7167266725636817797
+    second: esquilo_do_mal_43
+  - first:
+      213: 3368199958689862618
+    second: esquilo_do_mal_44
+  - first:
+      213: 230420829335052773
+    second: esquilo_do_mal_45
+  - first:
+      213: 1999456755721044577
+    second: esquilo_do_mal_46
+  - first:
+      213: -5243463519441927652
+    second: esquilo_do_mal_47
+  - first:
+      213: -152786494226872051
+    second: esquilo_do_mal_48
+  - first:
+      213: 8169452103136630942
+    second: esquilo_do_mal_49
+  - first:
+      213: 8127921319017361144
+    second: esquilo_do_mal_50
+  - first:
+      213: 644031274163333843
+    second: esquilo_do_mal_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: esquilo_do_mal_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 230
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d99e18558c17eb20800000000000000
+      internalID: 3163528622285691351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 230
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb1a9fdedb07f5b0800000000000000
+      internalID: -5334782181734999108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 230
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e47557894c168a0800000000000000
+      internalID: -6313549043513995775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 230
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621018b5ea0888210800000000000000
+      internalID: 1335458775863197990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 230
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a694418ac6f06510800000000000000
+      internalID: 1540502422173292198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 230
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657d90bd1adc0780800000000000000
+      internalID: -8715351357816736402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 230
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae02dad5943e2f70800000000000000
+      internalID: 9164320109971508909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 230
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ba92c2ef6371070800000000000000
+      internalID: 8076984922002795336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 198
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320791cf5fc6acf60800000000000000
+      internalID: 8055370687257866275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 198
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40daa2eb6c267a290800000000000000
+      internalID: -7879220417327878908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 198
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3288351ae916e20800000000000000
+      internalID: 3342126814213972910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28143dc14b696f530800000000000000
+      internalID: 3888461028602888578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 198
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c2ea7f91d5e5c80800000000000000
+      internalID: -8332119894477886410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e373c7d104d0c8a20800000000000000
+      internalID: 3065840015356213054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 198
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2b576c0d81b000800000000000000
+      internalID: 49976155290939227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 198
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31105b8057861b60800000000000000
+      internalID: 7716503791550337341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 166
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7796bca692a9a6fb0800000000000000
+      internalID: -4653737762257933961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 166
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b555c679a5f52c830800000000000000
+      internalID: 4089936254297986395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 166
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea000c368ec4a0220800000000000000
+      internalID: 2452857508046307502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 166
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc00018cf96b7770800000000000000
+      internalID: 8609591645865774291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 166
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459f95b4dadb8e900800000000000000
+      internalID: 714029092929403220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 166
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a014a176b3911af40800000000000000
+      internalID: 5737895143170261258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 166
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69277b41693ac8a90800000000000000
+      internalID: -7310288230141169002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 166
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7d998878e1895e0800000000000000
+      internalID: -1902737275102832651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 134
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6c0874e134fb9e0800000000000000
+      internalID: -1603489144992905563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 134
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15604904651c751f0800000000000000
+      internalID: -1056163011400300975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ae796afc6729aa0800000000000000
+      internalID: -6155727106436765122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 134
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663de08441a802860800000000000000
+      internalID: 7503148798912156518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 134
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249e5439f4b9ee20800000000000000
+      internalID: 3380431977736737837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 134
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ee32fa37c0d7790800000000000000
+      internalID: -7530849310894461348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 134
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b065ff4a24d22b90800000000000000
+      internalID: -7268013570427363149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 134
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c604d1567a2e686a0800000000000000
+      internalID: -6447216607950454676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b3823c7d2d40c70800000000000000
+      internalID: 8936499384743901987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 102
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b1207e8ef771d80800000000000000
+      internalID: -8280008751612552347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c92e8e4fe65cc670800000000000000
+      internalID: 8560312577539582404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 102
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb42f276494eb65a0800000000000000
+      internalID: -6526871908905966401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 102
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f77e0d38b5b94280800000000000000
+      internalID: -9058509372576073738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5505fb32b5e8c6aa0800000000000000
+      internalID: -6166397267684143019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 70
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef804d80c14ff2b0800000000000000
+      internalID: -5548643920637816854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e6affe0aecbc20800000000000000
+      internalID: 3223708783430002828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e1416aae4cb4160800000000000000
+      internalID: 7010913757020036655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec53bada4817e0a0800000000000000
+      internalID: -6852481598245085978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 35
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead1d6712cefbc90800000000000000
+      internalID: -7151738054769517856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5834f08fc1f377360800000000000000
+      internalID: 7167266725636817797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3d13654004ebe20800000000000000
+      internalID: 3368199958689862618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_45
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 38
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1ed51068e923300800000000000000
+      internalID: 230420829335052773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 34
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1620284635f7fbb10800000000000000
+      internalID: 1999456755721044577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 34
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12c1fac5b97b37b0800000000000000
+      internalID: -5243463519441927652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0941253e7131edf0800000000000000
+      internalID: -152786494226872051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98d6097769bf5170800000000000000
+      internalID: 8169452103136630942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feaa56406d2cc070800000000000000
+      internalID: 8127921319017361144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquilo_do_mal_51
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da6fb8180f00f800800000000000000
+      internalID: 644031274163333843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
