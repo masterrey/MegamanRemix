@@ -18,8 +18,11 @@ public class EnemyAIShoot : MonoBehaviour
     {
         if(Vector2.Distance(transform.position, player.position) < range)
         {
-            print("Chegou");
+            Shoot();
         }
+    }
+    void Shoot()
+    {
         if(timeBtwShots<=0)
         {
             Instantiate(projectile, transform.position, Quaternion.identity);
