@@ -16,6 +16,10 @@ public class NinjaComando : MonoBehaviour
     Vector3 diferença;
     Vector3 inicio;
     int pulos;
+    public static bool active = false;
+    public static bool active2 = false;
+    float button = 0;
+    float button2 = 0;
     const int PULOS = 2;
     void Start()
     {
@@ -77,23 +81,82 @@ public class NinjaComando : MonoBehaviour
         if (collision.gameObject.tag == "TiraVida")
         {
             transform.position = inicio;
-            vidas--;
+            vidas = 0;
             MarcadorVidas.text = "Vidas: " + vidas.ToString("00");
         }
         else if (collision.gameObject.tag == "Enemy")
         {
             vidas--;
-            transform.position = inicio;
             MarcadorVidas.text = "Vidas: " + vidas.ToString("00");
         }
         if (vidas == 0)
         {
             Morreu();
         }
+        if (collision.gameObject.tag == "Button")
+        {
+            button++;
+
+            if (button == 0)
+            {
+                active = false;
+
+            }
+            if (button == 1)
+            {
+                active = true;
+
+            }
+            else if (button == 2)
+            {
+                active = false;
+                button = 0;
+            }
+           
+        }
+        if (collision.gameObject.tag == "button2")
+        {
+            button2++;
+
+            if (button2 == 0)
+            {
+                active2 = false;
+
+            }
+            if (button2 == 1)
+            {
+                active2 = true;
+
+            }
+            else if (button2 == 2)
+            {
+                active2 = false;
+                button2 = 0;
+            }
+
+        }
+        if (collision.gameObject.tag == "BULLET")
+        {
+            Morreu();
+        }
+        if (collision.gameObject.tag == "THE.END")
+        {
+            trocaCena();
+        }
+        if (collision.gameObject.tag == "Ganhou")
+        {
+            SceneManager.LoadScene("Ganhou");
+            Debug.Log("Feu");
+        }
     }
     private void Morreu()
     {
         SceneManager.LoadScene("GameOver");
+
+    }
+   private void trocaCena()
+    {
+        SceneManager.LoadScene("Caverna");
 
     }
 }
