@@ -94,6 +94,10 @@ public class controlepump : MonoBehaviour
                 Debug.Log("morreu");
             }
         }
+        if(collision.gameObject.tag=="Next")
+        {
+            SceneManager.LoadScene("Boss1");
+        }
     }
     private void AtualizarMarcadorVidas()
     {

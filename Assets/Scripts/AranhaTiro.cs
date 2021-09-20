@@ -2,19 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Projetil : MonoBehaviour
+public class AranhaTiro : MonoBehaviour
 {
     public float speed;
     private Transform player;
     private Vector2 target;
-    Rigidbody2D rb;
 
     // Start is called before the first frame update
     void Start()
     {
         player=GameObject.FindGameObjectWithTag("Player").transform;
         target = new Vector2(player.position.x, player.position.y);
-        rb=GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
