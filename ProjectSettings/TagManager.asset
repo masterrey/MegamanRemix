@@ -6,6 +6,7 @@ TagManager:
   tags:
   - TirarVida
   - Next
+  - TirarVidaEs
   layers:
   - Default
   - TransparentFX
