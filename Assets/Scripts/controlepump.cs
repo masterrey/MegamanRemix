@@ -10,6 +10,10 @@ public class controlepump : MonoBehaviour
     Text MarcadorVidas;
     [SerializeField]//modificar variaveis privadas
     int Vidas=3;
+    [SerializeField]
+    Text MarcadorFase;
+    [SerializeField]//modificar variaveis privadas
+    int Fases=1;
     Vector3 inicio;
     public LayerMask LayerMascara; 
     private Rigidbody2D rb;
@@ -98,6 +102,30 @@ public class controlepump : MonoBehaviour
         {
             SceneManager.LoadScene("Boss1");
         }
+        if(collision.gameObject.tag=="Next2")
+        {
+            SceneManager.LoadScene("Fase2");
+        }
+        if(collision.gameObject.tag=="Next3")
+        {
+            SceneManager.LoadScene("Boss2");
+        }
+        if(collision.gameObject.tag=="Next4")
+        {
+            SceneManager.LoadScene("Fase3");
+        }
+        if(collision.gameObject.tag=="Next5")
+        {
+            SceneManager.LoadScene("Boss3");
+        }
+        if(collision.gameObject.tag=="Next6")
+        {
+            SceneManager.LoadScene("Fase4");
+        }
+        if(collision.gameObject.tag=="Next7")
+        {
+            SceneManager.LoadScene("Boss4");
+        }
     }
     private void AtualizarMarcadorVidas()
     {
@@ -106,5 +134,9 @@ public class controlepump : MonoBehaviour
     private void Morreu()
     {
         SceneManager.LoadScene("GameOver");
+    }
+    private void AtualizaFase()
+    {
+        
     }
 }
