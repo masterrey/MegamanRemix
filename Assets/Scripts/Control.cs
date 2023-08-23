@@ -7,13 +7,14 @@ public class Control : MonoBehaviour
     public Animator anima; // Referência ao Animator do personagem.
     float xmov; // Variável para guardar o movimento horizontal.
     public Rigidbody2D rdb; // Referência ao Rigidbody2D do personagem.
-    bool jump, doublejump; // Flags para controle de pulo e pulo duplo.
+    bool jump, doublejump,jumpagain; // Flags para controle de pulo e pulo duplo.
     float jumptime, jumptimeside; // Controla a duração dos pulos.
     public ParticleSystem fire; // Sistema de partículas para o efeito de fogo.
 
     void Start()
     {
-        // Método para inicializações. Não está sendo utilizado neste código.
+        // Método para inicializações. 
+        jumpagain = true;
     }
 
     void Update()
@@ -24,16 +25,20 @@ public class Control : MonoBehaviour
         // Verifica se o botão de pulo foi pressionado e controla o pulo duplo.
         if (Input.GetButtonDown("Jump"))
         {
-            if (jumptime < 0.1f)
-            {
+          
                 doublejump = true;
-            }
+            
+        }
+        if (Input.GetButtonUp("Jump"))
+        {
+            jumpagain = true;
         }
 
         // Define o estado de pulo com base na entrada do usuário.
-        if (Input.GetButton("Jump"))
+        if (Input.GetButton("Jump")&& jumpagain)
         {
             jump = true;
+            
         }
         else
         {
@@ -56,10 +61,11 @@ public class Control : MonoBehaviour
 
     void FixedUpdate()
     {
-        Reverser(); // Chama a função que inverte o personagem.
+        PhisicalReverser(); // Chama a função que inverte o personagem.
         anima.SetFloat("Velocity", Mathf.Abs(xmov)); // Define a velocidade no Animator.
 
         // Adiciona uma força para mover o personagem.
+        if(jumptimeside<0.1f)
         rdb.AddForce(new Vector2(xmov * 20 / (rdb.velocity.magnitude + 1), 0));
 
         RaycastHit2D hit;
@@ -69,6 +75,7 @@ public class Control : MonoBehaviour
         if (hit)
         {
             anima.SetFloat("Height", hit.distance);
+            if(jumptimeside<0.1)
             JumpRoutine(hit); // Chama a rotina de pulo.
         }
 
@@ -78,7 +85,7 @@ public class Control : MonoBehaviour
         hitright = Physics2D.Raycast(transform.position + Vector3.up * 0.5f, transform.right, 1);
         if (hitright)
         {
-            if (hitright.distance < 0.3f)
+            if (hitright.distance < 0.3f && hit.distance>0.5f)
             {
                 JumpRoutineSide(hitright); // Chama a rotina de pulo lateral.
             }
@@ -93,13 +100,19 @@ public class Control : MonoBehaviour
         if (hit.distance < 0.1f)
         {
             jumptime = 1;
+           
         }
 
         if (jump)
         {
             jumptime = Mathf.Lerp(jumptime, 0, Time.fixedDeltaTime * 10);
             rdb.AddForce(Vector2.up * jumptime, ForceMode2D.Impulse);
+            if (rdb.velocity.y < 0)
+            {
+                jumpagain = false;
+            }
         }
+        
     }
 
     // Rotina de pulo lateral.
@@ -107,29 +120,29 @@ public class Control : MonoBehaviour
     {
         if (hitside.distance < 0.3f)
         {
-            jumptimeside = 1;
+            jumptimeside = 6;
         }
 
         if (doublejump)
         {
-            PhisicalReverser();
+           // PhisicalReverser();
             jumptimeside = Mathf.Lerp(jumptimeside, 0, Time.fixedDeltaTime * 10);
-            rdb.AddForce((hitside.normal * 50 + Vector2.up * 80) * jumptimeside);
+            rdb.AddForce((hitside.normal + Vector2.up) * jumptimeside , ForceMode2D.Impulse);
         }
     }
 
     // Função para inverter a direção do personagem (visual).
     void Reverser()
     {
-        if (xmov > 0) transform.rotation = Quaternion.Euler(0, 0, 0);
-        if (xmov < 0) transform.rotation = Quaternion.Euler(0, 180, 0);
+        if (rdb.velocity.x > 0) transform.rotation = Quaternion.Euler(0, 0, 0);
+        if (rdb.velocity.x < 0) transform.rotation = Quaternion.Euler(0, 180, 0);
     }
 
     // Função para inverter a direção do personagem (física).
     void PhisicalReverser()
     {
         if (rdb.velocity.x > 0.1f) transform.rotation = Quaternion.Euler(0, 0, 0);
-        if (rdb.velocity.x < 0.1f) transform.rotation = Quaternion.Euler(0, 180, 0);
+        if (rdb.velocity.x < -0.1f) transform.rotation = Quaternion.Euler(0, 180, 0);
     }
 
     // Detecção de colisão com objetos marcados com a tag "Damage".
