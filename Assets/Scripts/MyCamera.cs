@@ -13,11 +13,22 @@ public class MyCamera : MonoBehaviour {
 	void LateUpdate () {
         if (target)
         {
-            transform.position = Vector3.Lerp(transform.position,
-                new Vector3(target.transform.position.x +
-                rdb.velocity.x * advanceFactor
-                , target.transform.position.y
-                , transform.position.z), Time.smoothDeltaTime);
+            if (rdb)
+            {
+                transform.position = Vector3.Lerp(transform.position,
+                    new Vector3(target.transform.position.x +
+                    rdb.velocity.x * advanceFactor
+                    , target.transform.position.y
+                    , transform.position.z), Time.smoothDeltaTime);
+            }
+            else
+            {
+                transform.position = Vector3.Lerp(transform.position,
+                   new Vector3(target.transform.position.x
+                   , target.transform.position.y
+                   , transform.position.z), Time.smoothDeltaTime);
+
+            }
         }
 	}
     /// <summary>
