@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7246830322015697047}
   - component: {fileID: 7246830322015697045}
   - component: {fileID: 7246830322015697044}
+  - component: {fileID: 3779694509317905532}
   m_Layer: 2
   m_Name: Enemy
   m_TagString: Enemy
@@ -30,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 7246830322015697050}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 9.24, y: 2.41, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.34, y: 1.34, z: 1.34}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -50,6 +51,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -74,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300142, guid: 0c117d5029bb6cc45926c199295d5005, type: 3}
+  m_Sprite: {fileID: 21300140, guid: 0c117d5029bb6cc45926c199295d5005, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -151,3 +153,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
+--- !u!114 &3779694509317905532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7246830322015697050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebba1056da94fef47a0ffa3175f3eef5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lives: 4
+  smoke: {fileID: 2006679684889494683, guid: 6a70ae007b05a7944897573e3578c3a2, type: 3}
+  explosion: {fileID: 8404128881088415328, guid: 0fdc7c5c3e2f4f04a86ee7851d1911a1,
+    type: 3}

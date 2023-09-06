@@ -63,6 +63,7 @@ public class Cannon : MonoBehaviour
     }
     void Follow()
     {
+        if (!target) return;
         if (target.transform.position.x > transform.position.x)
         {
             rb.AddForce(Vector2.right * 100);

@@ -148,7 +148,7 @@ public class Control : MonoBehaviour
     // Detecção de colisão com objetos marcados com a tag "Damage".
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.collider.CompareTag("Damage"))
+        if (collision.collider.CompareTag("Damage") || collision.collider.CompareTag("Enemy"))
         {
             LevelManager.instance.LowDamage(); // Chama a função para aplicar dano.
         }
