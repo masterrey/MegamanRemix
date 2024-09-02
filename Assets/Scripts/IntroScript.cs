@@ -7,7 +7,7 @@ public class IntroScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Invoke("ChangeScene",8*Time.timeScale);
+        Invoke("ChangeScene",1*Time.timeScale);
     }
 
     void ChangeScene()
